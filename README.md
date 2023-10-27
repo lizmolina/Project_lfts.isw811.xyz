@@ -12,5 +12,8 @@
 ## Section 3
 
 [Search](./docs/search.md)
+[Filtering](./docs/filtering.md)
+[Pagination](./docs/pagination.md)
+[Form and Authentication](./docs/forms-and-authentication.md)
 
 ## Section 4
