@@ -1,5 +1,12 @@
 # Laravel From The Scratch
 
+## Installation 
+
+First clone this repository, install the dependencies.
+```
+https://github.com/lizmolina/Project_lfts.isw811.xyz.git
+composer install
+```
 
 ## Section 2
 
